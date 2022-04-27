@@ -18,7 +18,7 @@ This is a Sole Project and was build in a day.
 
 ---
 
-### _Following are the Screenshots for the reference_
+### _Following are the Screenshot for the reference_
 
 - **Landing Page**
   ![Landing Page](https://cdn-images-1.medium.com/max/800/1*ANGRRyX1BUo6DrVSKeDQxw.png)
